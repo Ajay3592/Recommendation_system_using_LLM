@@ -1,6 +1,5 @@
 import streamlit as st
-from langchain_openai import OpenAIEmbeddings
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
