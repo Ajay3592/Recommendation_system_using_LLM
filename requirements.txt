@@ -1,8 +1,18 @@
 streamlit==1.32.0
-langchain
-langchain-core==0.3.75
-langchain-community==0.0.19
-langchain-openai==0.3.32
-langchain-pinecone==0.0.3
-pinecone-client==3.0.0
-requests>=2.31.0
+
+# Core LangChain
+langchain==0.2.12
+langchain-community==0.2.11
+
+# OpenAI integration 
+langchain-openai==0.1.14
+
+# Pinecone integration
+langchain-pinecone==0.1.1
+pinecone-client==3.2.2
+
+# OpenAI SDK
+openai==1.43.0
+
+# Utils
+requests>=2.32.0
