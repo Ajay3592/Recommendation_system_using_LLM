@@ -5,7 +5,7 @@ langchain==0.2.12
 langchain-community==0.2.11
 
 # OpenAI integration 
-langchain-openai==0.1.14
+langchain-openai==0.1.17
 
 # Pinecone integration
 langchain-pinecone==0.1.1
@@ -16,3 +16,4 @@ openai==1.43.0
 
 # Utils
 requests>=2.32.0
+
