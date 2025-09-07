@@ -3,4 +3,5 @@ langchain_community
 langchain
 pinecone
 streamlit==1.32.0
+langchain_openai
 requests>=2.31.0
