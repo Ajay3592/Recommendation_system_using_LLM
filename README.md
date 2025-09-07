@@ -1,5 +1,5 @@
 # 🧠 Ajay's Smart Recommender
-
+deployed at https://recommendationsystemusellm.streamlit.app/
 Ajay's Smart Recommender is an intelligent, conversational product recommendation app powered by **OpenAI's GPT-4** and **Pinecone vector database**. It uses semantic search and natural language understanding to deliver personalized product suggestions in a friendly, human-like tone.
 
 Built with **Streamlit**, this app allows users to describe what they're looking for (e.g., "budget smartphones" or "kitchen items") and receive curated recommendations with product details, ratings, and images.
@@ -72,4 +72,5 @@ Scalable & Fast: Vector search scales efficiently with large product catalogs.
 | **Explainability**            | Often opaque (e.g., matrix factorization)        | LLMs generate human-readable recommendations           |
 | **Adaptability**              | Needs retraining for new data                    | Instantly adapts to new queries and metadata           |
 | **User Experience**           | Static UI, limited interaction                   | Conversational, dynamic, and engaging                  |
+
 
