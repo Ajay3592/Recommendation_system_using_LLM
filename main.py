@@ -87,7 +87,7 @@ vectorstore = PineconeVectorStore(index=index, embedding=embedding_model)
 llm = ChatOpenAI(model_name="gpt-4", temperature=0.7, api_key=openai_key)
 
 
-st.title("[==========[ AI Product Recommender ]==========]")
+st.title("[=============[ AI Product Recommender ]=============]")
 
 # User input
 user_query = st.text_input(
