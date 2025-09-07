@@ -7,7 +7,7 @@ langchain-openai==0.3.32
 langchain-pinecone==0.2.12
 
 # Pinecone client
-pinecone-client==7.3.0
+pinecone==7.3.0
 
 # OpenAI SDK and dependencies
 openai==1.106.1
@@ -15,3 +15,4 @@ httpx==0.28.1
 
 # Utilities
 requests==2.32.5
+
