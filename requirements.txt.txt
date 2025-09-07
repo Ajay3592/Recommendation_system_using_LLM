@@ -1,8 +1,7 @@
 streamlit==1.32.0
 langchain==0.1.17
-langchain-openai
 langchain-community==0.0.19
+langchain-openai==0.3.32
 langchain-pinecone==0.0.3
 pinecone-client==3.0.0
 requests>=2.31.0
-
